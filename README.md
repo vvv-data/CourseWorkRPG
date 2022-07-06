@@ -1,2 +1,2 @@
 # CourseWorkRPG
-created the game while studying the tutorial
+created a script for unity while studying the tutorial
